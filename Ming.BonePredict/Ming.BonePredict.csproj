@@ -144,6 +144,7 @@
     <Content Include="Assets\ic_bone_16x16.png" />
     <Content Include="Assets\ic_bone_24x24.png" />
     <Content Include="favicon.ico" />
+    <Content Include="Snapshoot\2025-01-15-11-36-33-1736912185902.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
